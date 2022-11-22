@@ -1,0 +1,32 @@
+.grid__header--static {
+    color: yellow;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.grid__header--clickable {
+    color: yellow;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+.board_header--addNew {
+    color: white;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border-radius: 27.5px;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+}
+
+.board_header--addNew:hover {
+    color: yellow;
+}

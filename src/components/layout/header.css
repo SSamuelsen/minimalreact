@@ -1,0 +1,35 @@
+.header {
+    display:block;
+    margin: auto;
+    height: 100px;
+}
+
+.header__element {
+    display: block;
+    float: left;
+    margin-left: 10px;
+}
+
+.header__element--title {
+    display: block;
+    float: left;
+    font-style: italic;
+    margin-left: 10%;
+}
+
+.header__element--container {
+    display: block;
+    float: left;
+    margin-left: 2%;
+    margin-top: 40px;
+}
+
+.header__btn {
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+}
+
+.header__btn:hover {
+    color:yellow;
+}
